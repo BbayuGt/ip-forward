@@ -1,2 +1,3 @@
 # ip-forward
-Check the download link in the link.txt
+Check the download link in the release
+
