@@ -7,16 +7,13 @@ Check the download link in the release
 # Changelog
 
 * 1.1
-
-Minor bug fix
+    * Minor bug fix
 
 * 1.2
-
-Minor bug fix
+    * Minor bug fix
 
 * 1.3 (Upcoming update)
-
-Fix database error
+    * Fix database error
 
 # Note
 Please wait for V1.3, because our database currently down.
