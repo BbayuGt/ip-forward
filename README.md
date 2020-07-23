@@ -18,12 +18,12 @@ Check the download link in the release
     * Added info
     * Minor bug fix
 
-* 1.4-Beta ![BLUE](https://via.placeholder.com/15/00ffff/000000?text=+)
-
 * 1.4 ![YELLOW](https://via.placeholder.com/15/fff000/000000?text=+) ![GREEN](http://via.placeholder.com/15/7cfc00/000000?text=+)
     * Added hwid whitelist
     * Added beta-supported account
     * More
+
+* 1.5-Beta ![BLUE](https://via.placeholder.com/15/00ffff/000000?text=+)
 
 # Note
 ![RED](https://via.placeholder.com/15/f03c15/000000?text=+) Means major update
