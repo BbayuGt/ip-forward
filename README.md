@@ -22,3 +22,7 @@ Check the download link in the release
 ![RED](https://via.placeholder.com/15/f03c15/000000?text=+) Means major update
 
 ![GREEN](http://via.placeholder.com/15/7cfc00/000000?text=+) Means minor update
+
+![YELLOW](https://via.placeholder.com/15/fff000/000000?text=+) Means upcoming update
+
+![BLUE](https://via.placeholder.com/15/00ffff/000000?text=+) Means beta update
