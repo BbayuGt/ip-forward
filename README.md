@@ -19,8 +19,6 @@ Check the download link in the release
     * Minor bug fix
 
 # Note
-Please wait for V1.3, because our database currently down.
-
 ![RED](https://via.placeholder.com/15/f03c15/000000?text=+) Means major update
 
 ![GREEN](http://via.placeholder.com/15/7cfc00/000000?text=+) Means minor update
