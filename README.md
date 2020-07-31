@@ -19,7 +19,7 @@ Check the download link in the release
     * Minor bug fix
     * Support 32-bit OS
 
-* 1.4 ![YELLOW](https://via.placeholder.com/15/fff000/000000?text=+) ![RED](https://via.placeholder.com/15/f03c15/000000?text=+)
+* 1.4![RED](https://via.placeholder.com/15/f03c15/000000?text=+)
     * Added hwid whitelist
     * Delete account system
     * More
