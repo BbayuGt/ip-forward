@@ -24,6 +24,9 @@ Check the download link in the release
     * Delete account system
     * More
 
+* 1.45![RED](https://via.placeholder.com/15/f03c15/000000?text=+)
+    * Changed database
+
 * 1.5-Beta ![BLUE](https://via.placeholder.com/15/00ffff/000000?text=+)
 
 # Note
