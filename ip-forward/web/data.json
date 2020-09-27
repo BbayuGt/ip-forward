@@ -1,0 +1,16 @@
+{
+    "BbayuGt": {
+        "pwd": "262b80d80a13a238a86fe8a304cc9384dcf73268a1656f8fe364c99ac343f5a2de2ae97a3cc309184417dc4735c769e0154a96428124eb22bfe3fbe6f0409eeb",
+        "wls": 999999830,
+        "hwid": [
+            "df1260ffb22faf33dfb799189ffbafcaae07e86a38a964cdbc1547a6127f09d61291f44deb9da26535bb6d89637e393d5ea8ed0bb40359d1e4485496a160313c"
+        ],
+        "expire": [
+            20210801
+        ],
+        "type": [
+            "pro"
+        ],
+        "Buyer": false
+    }
+}
